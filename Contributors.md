@@ -14,3 +14,4 @@ Jessica B
 - [Bryan Wong]
 - [Christian Haller 🇺🇸] (https://github.com/ChristianHallerX)
 - [James Rainbolt] (https://www.linkedin.com/in/james-rainbolt/)
+- [Ryan Kaviani] (www.linkedin.com/ryankavi/)
